@@ -11,6 +11,8 @@ namespace hello
         static void Main(string[] args)
         {
             Console.WriteLine("hello world!");
+            Console.WriteLine("oh.hi, Egor!!!");
+            Console.WriteLine("izmenil programmy");
             Console.ReadKey();
         }
     }
